@@ -8,7 +8,15 @@ body {
     align-items: center;
     min-height: 100vh;
 }
-
+.italic-bold {
+            font-style: italic;
+            font-weight: bold;
+            position: absolute;
+            top: 0;
+            left: 0;
+            font-size: smaller; /* Adjust the font size as needed */
+            color: #000; /* Change color if needed */
+}
 .container {
     background-color: white;
     padding: 30px;
